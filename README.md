@@ -2,6 +2,8 @@
 
 I work on data analysis, workflow automation, and health research. I hold an MSc in Exercise Physiology with a focus on nutrition. I use Python and SQL for data analysis and n8n to build workflows that connect APIs and operational tools.
 
+My research interests include sports nutrition, metabolic health, lifestyle interventions, and the application of machine learning to health-related data. My publications and research record are available on [ORCID](https://orcid.org/0000-0002-8035-6044).
+
 - [AliLab](https://alilab.ir) is my bilingual portfolio and website on health, nutrition, and data.
 - [AliLab Training](https://github.com/Nsport441/alilab-training) is my adaptation of openGym, with Persian localization and changes for a self-hosted pilot.
 
